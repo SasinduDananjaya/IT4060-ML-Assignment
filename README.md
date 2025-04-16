@@ -1,4 +1,4 @@
 # IT4060-ML-Assignment
-## Naive-Bayes-Model
-## IT21279966
-## Gunawardana S.D.L
+# Group Members
+## IT21279966 - Gunawardana S.D.L
+## IT21244698 - Thilakasiri P.K.V.C
